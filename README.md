@@ -25,7 +25,7 @@ Finding significant predictors for customer churn.
 - imblearn : Version: 0.10.1
 
 ## Conclusions
-
+features: 'loc_ic_t2m_mou_8', 'max_rech_amt_8', 'last_day_rch_amt_8', 'loc_og_t2m_mou_8', 'loc_ic_t2f_mou_8', 'loc_og_t2t_mou_8', 'total_rech_num_8', 'offnet_mou_8', 'onnet_mou_7'
 
 ## Acknowledgements
 - This project was based on upgrad.
